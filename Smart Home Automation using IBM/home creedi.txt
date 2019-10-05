@@ -1,0 +1,6 @@
+Organization ID-qc6yjz
+Device Type-mydevice
+Device ID-home
+Authentication Method
+use-token-auth
+Authentication Token   +e@(yVy96Ff*wos@?x
